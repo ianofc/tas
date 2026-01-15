@@ -1,9 +1,10 @@
 fastapi
 uvicorn[standard]
+gunicorn
 pydantic-settings
 sqlalchemy
 asyncpg
-aioredis
 numpy
 python-dotenv
 sentence-transformers
+requests
